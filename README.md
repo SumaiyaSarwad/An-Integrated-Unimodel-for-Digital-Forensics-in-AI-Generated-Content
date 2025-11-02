@@ -8,9 +8,10 @@ step 3:- exctract file
 step 4:- import to VScode                                                                                                                                                                
 step 5:- open new terminal inside VScode                                                                                                                                                                
 step 6:- redirect to the project path as given below                                                                                                                                                                            
-cd ai_detector_unimodel  
-python -m venv venv  
-venv\Scripts\activate
+cd ai_detector_unimodel                                                                                                                                                                                                                                                                      
+python -m venv venv                                                                                                                                                                                                                                                                                                                         
+venv\Scripts\activate                                                                                                                                                                                                                         
+
 <img width="629" height="201" alt="image" src="https://github.com/user-attachments/assets/8d29ded7-c80a-4ced-8e64-6f0445da257d" />
 
 step 7:- after creating and activating environment it will look like in above image (venv)                                                                                                                                               
